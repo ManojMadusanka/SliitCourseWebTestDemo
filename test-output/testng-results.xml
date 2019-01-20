@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104707" started-at="2019-01-20T11:53:14Z" finished-at="2019-01-20T11:54:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104707" started-at="2019-01-20T11:53:14Z" finished-at="2019-01-20T11:54:59Z">
+      <class name="com.courseweb.qa.testcases.DigitalLibraryPageTest">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.courseweb.qa.testcases.DigitalLibraryPageTest@1817d444]" name="startUp" is-config="true" duration-ms="38128" started-at="2019-01-20T11:53:14Z" finished-at="2019-01-20T11:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="It2018PaperFolderTest()[pri:1, instance:com.courseweb.qa.testcases.DigitalLibraryPageTest@1817d444]" name="It2018PaperFolderTest" duration-ms="65331" started-at="2019-01-20T11:53:52Z" finished-at="2019-01-20T11:54:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- It2018PaperFolderTest -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.courseweb.qa.testcases.DigitalLibraryPageTest@1817d444]" name="exit" is-config="true" duration-ms="1180" started-at="2019-01-20T11:54:57Z" finished-at="2019-01-20T11:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.courseweb.qa.testcases.DigitalLibraryPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
