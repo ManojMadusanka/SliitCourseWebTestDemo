@@ -16,7 +16,7 @@ public class DownLoadPage extends TestBase{
 	}
 	
 	public void clickToDownload() {
-        	
+        
 	}
 	
 }
